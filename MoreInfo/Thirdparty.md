@@ -1,5 +1,7 @@
 # Third-party plugins support
 
+In 1.6.0 this feature is removed in this extension, an new extension will released after.
+
 GML Support currently provides support for the following plugins:
 
  Plugins | Syntax highlighting | Code typings | Remarks 
