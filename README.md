@@ -14,15 +14,13 @@ Visual Studio Code version should be higher than 1.8.0.
 
  - [Visual Studio Code](https://code.visualstudio.com)
 
+## Data from
+
  - [GameMaker Syntax](https://yal.cc/notepad-syntax-highlighting-for-gamemaker-81/) by YellowAfterlife
 
  - [Sublime-GameMaker-Studio-Language-Bundle](https://github.com/Uduse/Sublime-GameMaker-Studio-Language-Bundle)  with Apache-2.0 by Uduse
 
  - [GMEdit](https://github.com/GameMakerDiscord/GMEdit) with MIT License by GameMakerDiscord
-
-## Thanks
-
- - [laspencer91](https://github.com/laspencer91)
 
 ## Donate
 
