@@ -30,6 +30,6 @@ Visual Studio Code版本需高于1.8.0。
 | :--------------------------: | :--------------------------------: |
 | ![alipay](../assets/zfb.jpg) | ![wechatpay](../assets/wechat.jpg) |
 
-## 广告 (如果你不喜欢，可以使用广告拦截插件，如 Adblock Plus。uBlock)
+## 广告 (如果你不喜欢，可以使用广告拦截插件，如 Adblock Plus, uBlock)
 
 [AdSense](https://gmlsupport.liaronce.com/ad.html ':include :type=iframe width=100% height=110px')
