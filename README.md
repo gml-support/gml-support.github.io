@@ -1,4 +1,3 @@
-<script>(adsbygoogle = window.adsbygoogle || []).push({});</script> 
 # GML Support
 
 ![Version](https://vsmarketplacebadge.apphb.com/version/liaronce.gml-support.svg)
