@@ -25,3 +25,7 @@ Visual Studio Code version should be higher than 1.8.0.
 ## Donate
 
 [Paypal](https://www.paypal.me/liaronce)
+
+| Advertisement |
+| ------------- |
+| <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-3690106568773922" data-ad-slot="3017981868" data-ad-format="auto" data-full-width-responsive="true"></ins> |
