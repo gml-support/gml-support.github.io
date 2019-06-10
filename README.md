@@ -26,6 +26,6 @@ Visual Studio Code version should be higher than 1.8.0.
 
 [Paypal](https://www.paypal.me/liaronce)
 
-## Advertisement
+## Advertisement (If you don't like it, you can use the ad blocking plugin. e.g.Adblock Plus, uBlock)
 
 [AdSense](https://gmlsupport.liaronce.com/ad.html ':include :type=iframe width=100% height=110px')
